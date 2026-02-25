@@ -5,6 +5,7 @@
 # Location : KCE @NEW HALL 2
 
 ## Project Overview
+
 This is a simple web-based Weather Application developed as part of the UI Intern Assessment.  
 The application allows users to enter a city name and view real-time weather information such as temperature, humidity, pressure, and weather conditions using the OpenWeather API (FREE) .
 
@@ -33,4 +34,10 @@ Follow these steps to run the project locally:
 
 This project uses the OpenWeather Current Weather API.
 
-# OUTPUT
+# Output
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d434ee97-5600-44f0-917f-4aeaff9408fc" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/2beb3102-2234-4987-804a-91c4c2c19b5a" />
+
+<img width="1912" height="1079" alt="Image" src="https://github.com/user-attachments/assets/cdc98e4a-a61d-49c2-a1cd-c69206767a9a" />
