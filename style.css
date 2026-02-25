@@ -1,0 +1,53 @@
+
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #ffffff;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px gray;
+}
+
+button {
+  padding: 8px 12px;
+  
+}
+
+h2 {
+   justify-self: center;
+   margin-top: 60px;
+}
+
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    gap: 10px;               
+    margin-top: 40px;
+}
+
+input {
+    height: 30px;
+}
+
+
+.card {
+  display: inline-block;     
+  background: #ffffff;
+  padding: 20px 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin-top: 20px;
+  text-align: left;
+  min-width: 250px;           
+}
+
+
+#result {
+  text-align: center;
+}
