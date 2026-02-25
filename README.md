@@ -41,3 +41,9 @@ This project uses the OpenWeather Current Weather API.
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/2beb3102-2234-4987-804a-91c4c2c19b5a" />
 
 <img width="1912" height="1079" alt="Image" src="https://github.com/user-attachments/assets/cdc98e4a-a61d-49c2-a1cd-c69206767a9a" />
+
+
+# Updated Output
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/dc09330c-ce0f-402a-ad1c-96489f252c9b" />
+
